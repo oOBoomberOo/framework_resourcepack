@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"pack_format": 4,
+		"description": [
+			{"text": "Framework", "color": "red"},
+			{"text": "'s Resourcepack", "color": "gray"}
+		]
+	}
+}

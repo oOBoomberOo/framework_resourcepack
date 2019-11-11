@@ -1,0 +1,22 @@
+{
+	"parent": "boomber:framework/block/block",
+	"textures": {
+		"0": "boomber:framework/block/candle"
+	},
+	"elements": [
+		{
+			"from": [6.5, 3.5, -1.5],
+			"to": [9.5, 13.5, 1.5],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 3.5, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 10], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 10], "texture": "#0"},
+				"south": {"uv": [0, 0, 3, 10], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 10], "texture": "#0"},
+				"up": {"uv": [6, 0, 9, 3], "texture": "#0"},
+				"down": {"uv": [6, 3, 9, 6], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/structure_void"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 8080000}, "model": "boomber:framework/block/candle/floor"},
+		{"predicate": {"custom_model_data": 8080001}, "model": "boomber:framework/block/candle/wall"},
+		{"predicate": {"custom_model_data": 8080002}, "model": "boomber:framework/block/doormat/white_wool"}
+	]
+}

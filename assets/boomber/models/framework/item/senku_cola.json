@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "boomber:framework/item/senku_cola",
+		"layer1": "boomber:framework/item/senku_cola"
+	}
+}

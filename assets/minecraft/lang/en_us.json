@@ -1,0 +1,19 @@
+{
+	"boomber.framework.item.senku_cola": "Senku Cola",
+	"boomber.framework.item.senku_cola.description": "Made in 5738 AD",
+	"boomber.framework.block.candle": "Candle Decorator",
+	"boomber.framework.block.white_wool_doormat": "White Wool Doormat",
+	"boomber.framework.block.furniture_table": "Furniture Table",
+	"boomber.framework.ui.furniture_table.cost.red": "Red",
+	"boomber.framework.ui.furniture_table.cost.green": "Green",
+	"boomber.framework.ui.furniture_table.cost.blue": "Blue",
+	"boomber.framework.ui.furniture_table.cost.clay": "Clay",
+	"boomber.framework.ui.furniture_table.next": ">>>",
+	"boomber.framework.ui.furniture_table.previous": "<<<",
+	"boomber.framework.ui.furniture_table.none": "...",
+	"boomber.framework.ui.furniture_table.blank": "",
+	"boomber.framework.ui.furniture_table.red_dye_slot": "Red Dye Slot",
+	"boomber.framework.ui.furniture_table.green_dye_slot": "Green Dye Slot",
+	"boomber.framework.ui.furniture_table.blue_dye_slot": "Blue Dye Slot",
+	"boomber.framework.ui.furniture_table.clay_slot": "Clay Slot"
+}
