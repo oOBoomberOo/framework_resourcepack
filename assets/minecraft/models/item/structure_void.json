@@ -6,6 +6,7 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 8080000}, "model": "boomber:framework/block/candle/floor"},
 		{"predicate": {"custom_model_data": 8080001}, "model": "boomber:framework/block/candle/wall"},
-		{"predicate": {"custom_model_data": 8080002}, "model": "boomber:framework/block/doormat/white_wool"}
+		{"predicate": {"custom_model_data": 8080002}, "model": "boomber:framework/block/doormat/white_wool"},
+		{"predicate": {"custom_model_data": 8080003}, "model": "boomber:framework/block/doormat/creeper"}
 	]
 }

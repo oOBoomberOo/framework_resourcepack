@@ -1,0 +1,6 @@
+{
+	"parent": "block/white_stained_glass",
+	"overrides": [
+		{"predicate": {"custom_model_data": 8080000}, "model": "boomber:framework/block/fish_bowl/empty_fish_bowl"}
+	]
+}

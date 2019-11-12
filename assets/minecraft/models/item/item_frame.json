@@ -6,6 +6,8 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 8080000}, "model": "boomber:framework/block/candle/floor"},
 		{"predicate": {"custom_model_data": 8080001}, "model": "minecraft:item/barrel"},
-		{"predicate": {"custom_model_data": 8080002}, "model": "boomber:framework/block/doormat/white_wool"}
+		{"predicate": {"custom_model_data": 8080002}, "model": "boomber:framework/block/doormat/white_wool"},
+		{"predicate": {"custom_model_data": 8080003}, "model": "boomber:framework/block/doormat/creeper"},
+		{"predicate": {"custom_model_data": 8080004}, "model": "boomber:framework/block/fish_bowl/empty_fish_bowl"}
 	]
 }

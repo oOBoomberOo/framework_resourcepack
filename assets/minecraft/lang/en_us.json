@@ -1,9 +1,11 @@
 {
 	"boomber.framework.item.senku_cola": "Senku Cola",
 	"boomber.framework.item.senku_cola.description": "Made in 5738 AD",
-	"boomber.framework.block.candle": "Candle Decorator",
-	"boomber.framework.block.white_wool_doormat": "White Wool Doormat",
 	"boomber.framework.block.furniture_table": "Furniture Table",
+	"boomber.framework.block.torch_decorator.candle": "Candle Decorator",
+	"boomber.framework.block.doormat.white_wool": "White Wool Doormat",
+	"boomber.framework.block.doormat.creeper": "Creeper Doormat",
+	"boomber.framework.block.fish_bowl.small_empty": "Empty Small Fish Bowl",
 	"boomber.framework.ui.furniture_table.cost.red": "Red",
 	"boomber.framework.ui.furniture_table.cost.green": "Green",
 	"boomber.framework.ui.furniture_table.cost.blue": "Blue",
