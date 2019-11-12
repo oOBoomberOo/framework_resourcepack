@@ -1,5 +1,5 @@
 {
-	"parent": "boomber:framework/block/block",
+	"parent": "boomber:framework/block/small_block",
 	"textures": {
 		"material": "minecraft:block/stone"
 	},

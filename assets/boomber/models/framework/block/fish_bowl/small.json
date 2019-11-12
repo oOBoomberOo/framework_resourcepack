@@ -1,9 +1,12 @@
 {
-	"parent": "boomber:framework/block/block",
+	"credit": "Made with Blockbench",
+	"parent": "boomber:framework/block/small_block",
 	"textures": {
+		"3": "block/sand",
 		"material": "block/glass",
 		"water": "boomber:framework/block/fish_bowl/water",
-		"fish": "boomber:framework/block/fish_bowl/fish"
+		"fish": "boomber:framework/block/fish_bowl/fish",
+		"particle": "block/sand"
 	},
 	"elements": [
 		{
@@ -116,15 +119,15 @@
 		},
 		{
 			"name": "water",
-			"from": [5.05, 0.5, 5.05],
-			"to": [10.95, 5.25, 10.95],
+			"from": [5.05, 2.0501, 5.05],
+			"to": [10.95, 5.5501, 10.95],
 			"faces": {
-				"north": {"uv": [5, 10, 11, 14.75], "texture": "#water"},
-				"east": {"uv": [5, 10, 11, 14.75], "texture": "#water"},
-				"south": {"uv": [5, 10, 11, 14.75], "texture": "#water"},
-				"west": {"uv": [5, 10, 11, 14.75], "texture": "#water"},
-				"up": {"uv": [5, 5, 11, 11], "texture": "#water"},
-				"down": {"uv": [5, 5, 11, 11], "texture": "#water"}
+				"north": {"uv": [0, 6, 16, 16], "texture": "#water"},
+				"east": {"uv": [0, 6, 16, 16], "texture": "#water"},
+				"south": {"uv": [0, 6, 16, 16], "texture": "#water"},
+				"west": {"uv": [0, 6, 16, 16], "texture": "#water"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#water"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#water"}
 			}
 		},
 		{
@@ -133,6 +136,19 @@
 			"to": [8, 6.5, 10.95],
 			"faces": {
 				"east": {"uv": [0, 0, 16, 16], "texture": "#fish"}
+			}
+		},
+		{
+			"name": "sand",
+			"from": [5, 0.5, 5],
+			"to": [11, 2.05, 11],
+			"faces": {
+				"north": {"uv": [0, 12, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 12, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 12, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 12, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
 			}
 		}
 	],
@@ -146,5 +162,5 @@
 			"name": "edge",
 			"origin": [8, 8, 8],
 			"children": [5, 6, 7, 8]
-		}, 9, 10]
+		}, 9, 10, 11]
 }

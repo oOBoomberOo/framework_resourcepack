@@ -6,7 +6,23 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 8080000}, "model": "boomber:framework/block/candle/floor"},
 		{"predicate": {"custom_model_data": 8080001}, "model": "boomber:framework/block/candle/wall"},
-		{"predicate": {"custom_model_data": 8080002}, "model": "boomber:framework/block/doormat/white_wool"},
-		{"predicate": {"custom_model_data": 8080003}, "model": "boomber:framework/block/doormat/creeper"}
+		{"predicate": {"custom_model_data": 8080002}, "model": "boomber:framework/block/doormat/wool/white"},
+		{"predicate": {"custom_model_data": 8080003}, "model": "boomber:framework/block/doormat/wool/orange"},
+		{"predicate": {"custom_model_data": 8080004}, "model": "boomber:framework/block/doormat/wool/magenta"},
+		{"predicate": {"custom_model_data": 8080005}, "model": "boomber:framework/block/doormat/wool/light_blue"},
+		{"predicate": {"custom_model_data": 8080006}, "model": "boomber:framework/block/doormat/wool/yellow"},
+		{"predicate": {"custom_model_data": 8080007}, "model": "boomber:framework/block/doormat/wool/lime"},
+		{"predicate": {"custom_model_data": 8080008}, "model": "boomber:framework/block/doormat/wool/pink"},
+		{"predicate": {"custom_model_data": 8080009}, "model": "boomber:framework/block/doormat/wool/gray"},
+		{"predicate": {"custom_model_data": 8080010}, "model": "boomber:framework/block/doormat/wool/light_gray"},
+		{"predicate": {"custom_model_data": 8080011}, "model": "boomber:framework/block/doormat/wool/cyan"},
+		{"predicate": {"custom_model_data": 8080012}, "model": "boomber:framework/block/doormat/wool/purple"},
+		{"predicate": {"custom_model_data": 8080013}, "model": "boomber:framework/block/doormat/wool/blue"},
+		{"predicate": {"custom_model_data": 8080014}, "model": "boomber:framework/block/doormat/wool/brown"},
+		{"predicate": {"custom_model_data": 8080015}, "model": "boomber:framework/block/doormat/wool/green"},
+		{"predicate": {"custom_model_data": 8080016}, "model": "boomber:framework/block/doormat/wool/red"},
+		{"predicate": {"custom_model_data": 8080017}, "model": "boomber:framework/block/doormat/wool/black"},
+		{"predicate": {"custom_model_data": 8080018}, "model": "boomber:framework/block/doormat/creeper"},
+		{"predicate": {"custom_model_data": 8080019}, "model": "boomber:framework/block/doormat/megumin"}
 	]
 }

@@ -1,0 +1,6 @@
+{
+	"parent": "boomber:framework/block/doormat/base",
+	"textures": {
+		"material": "minecraft:block/yellow_wool"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "boomber:framework/block/fish_bowl/small",
+	"textures": {
+		"fish": "boomber:framework/block/fish_bowl/fish/none"
+	}
+}
