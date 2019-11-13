@@ -1,0 +1,59 @@
+{
+	"parent": "boomber:framework/block/block",
+	"textures": {
+		"1": "boomber:framework/block/conveyor_belt/behind",
+		"2": "boomber:framework/block/conveyor_belt/bottom",
+		"3": "boomber:framework/block/conveyor_belt/front",
+		"4": "boomber:framework/block/conveyor_belt/side",
+		"5": "boomber:framework/block/conveyor_belt/top",
+		"6": "boomber:framework/block/conveyor_belt/railing"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [0, 0, 0],
+			"to": [16, 8, 16],
+			"faces": {
+				"north": {"uv": [0, 8, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 8, 16, 16], "texture": "#4"},
+				"south": {"uv": [0, 8, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 8, 16, 16], "texture": "#4"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "right",
+			"from": [15, 8, 0],
+			"to": [16, 9, 16],
+			"faces": {
+				"north": {"uv": [14, 0, 15, 1], "texture": "#6"},
+				"east": {"uv": [15, 0, 16, 16], "texture": "#6"},
+				"south": {"uv": [14, 15, 15, 16], "texture": "#6"},
+				"west": {"uv": [13, 0, 14, 16], "texture": "#6"},
+				"up": {"uv": [14, 0, 15, 16], "texture": "#6"},
+				"down": {"uv": [12, 0, 13, 16], "texture": "#6"}
+			}
+		},
+		{
+			"name": "left",
+			"from": [0, 8, 0],
+			"to": [1, 9, 16],
+			"faces": {
+				"north": {"uv": [1, 0, 2, 1], "texture": "#6"},
+				"east": {"uv": [2, 0, 3, 16], "texture": "#6"},
+				"south": {"uv": [1, 15, 2, 16], "texture": "#6"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#6"},
+				"up": {"uv": [1, 0, 2, 16], "texture": "#6"},
+				"down": {"uv": [3, 0, 4, 16], "texture": "#6"}
+			}
+		}
+	],
+	"groups": [0,
+		{
+			"name": "railing",
+			"origin": [8, 8, 8],
+			"children": [1, 2]
+		}
+	]
+}

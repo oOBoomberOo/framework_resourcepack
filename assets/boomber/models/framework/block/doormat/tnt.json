@@ -1,0 +1,6 @@
+{
+	"parent": "boomber:framework/block/doormat/base",
+	"textures": {
+		"material": "boomber:framework/block/doormat/tnt"
+	}
+}

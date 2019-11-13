@@ -23,6 +23,9 @@
 		{"predicate": {"custom_model_data": 8080016}, "model": "boomber:framework/block/doormat/wool/red"},
 		{"predicate": {"custom_model_data": 8080017}, "model": "boomber:framework/block/doormat/wool/black"},
 		{"predicate": {"custom_model_data": 8080018}, "model": "boomber:framework/block/doormat/creeper"},
-		{"predicate": {"custom_model_data": 8080019}, "model": "boomber:framework/block/doormat/megumin"}
+		{"predicate": {"custom_model_data": 8080019}, "model": "boomber:framework/block/doormat/megumin"},
+		{"predicate": {"custom_model_data": 8080020}, "model": "boomber:framework/block/doormat/chicken"},
+		{"predicate": {"custom_model_data": 8080021}, "model": "boomber:framework/block/doormat/tnt"},
+		{"predicate": {"custom_model_data": 8080022}, "model": "boomber:framework/block/conveyor_belt/straight"}
 	]
 }

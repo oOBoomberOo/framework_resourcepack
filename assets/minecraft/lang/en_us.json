@@ -1,6 +1,9 @@
 {
+	"boomber.framework.item.durability": "Durability",
 	"boomber.framework.item.senku_cola": "Senku Cola",
 	"boomber.framework.item.senku_cola.description": "Made in 5738 AD",
+	"boomber.framework.item.trowel": "Trowel",
+	"boomber.framework.item.trowel.description": "Press F to access trowel's inventory",
 	"boomber.framework.block.furniture_table": "Furniture Table",
 	"boomber.framework.block.torch_decorator.candle": "Candle Decorator",
 	"boomber.framework.block.doormat.white_wool": "White Wool Doormat",
@@ -22,6 +25,8 @@
 	"boomber.framework.block.doormat.creeper": "Creeper Doormat",
 	"boomber.framework.block.doormat.megumin": "Megumin Doormat",
 	"boomber.framework.block.doormat.megumin.description": "\"Megumin4Life\"",
+	"boomber.framework.block.doormat.chicken": "Chicken Doormat",
+	"boomber.framework.block.doormat.tnt": "TNT Doormat",
 	"boomber.framework.block.fish_bowl.small_empty": "Empty Small Fish Bowl",
 	"boomber.framework.ui.furniture_table.cost.red": "Red",
 	"boomber.framework.ui.furniture_table.cost.green": "Green",
