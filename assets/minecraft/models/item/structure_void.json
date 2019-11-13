@@ -26,6 +26,11 @@
 		{"predicate": {"custom_model_data": 8080019}, "model": "boomber:framework/block/doormat/megumin"},
 		{"predicate": {"custom_model_data": 8080020}, "model": "boomber:framework/block/doormat/chicken"},
 		{"predicate": {"custom_model_data": 8080021}, "model": "boomber:framework/block/doormat/tnt"},
-		{"predicate": {"custom_model_data": 8080022}, "model": "boomber:framework/block/conveyor_belt/straight"}
+		{"predicate": {"custom_model_data": 8080022}, "model": "boomber:framework/block/conveyor_belt/straight"},
+		{"predicate": {"custom_model_data": 8080023}, "model": "boomber:framework/block/gravestone/plate/base"},
+		{"predicate": {"custom_model_data": 8080024}, "model": "boomber:framework/block/gravestone/cross/base"},
+		{"predicate": {"custom_model_data": 8080025}, "model": "boomber:framework/block/gravestone/celtic/base"},
+		{"predicate": {"custom_model_data": 8080026}, "model": "boomber:framework/block/gravestone/slanted/base"},
+		{"predicate": {"custom_model_data": 8080027}, "model": "boomber:framework/block/figure/megumin"}
 	]
 }

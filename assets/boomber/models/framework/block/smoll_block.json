@@ -1,0 +1,14 @@
+{
+	"parent": "boomber:framework/block/block",
+	"display": {
+		"ground": {
+				"translation": [0, 10, 0],
+				"scale": [2, 2, 2]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 20, 0],
+			"scale": [3.5, 3.5, 3.5]
+		}
+	}
+}
