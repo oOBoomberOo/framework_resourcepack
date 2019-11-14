@@ -1,0 +1,10 @@
+{
+	"parent": "boomber:framework/block/drawer/close",
+	"textures": {
+		"bottom": "boomber:framework/block/drawer/oak/bottom",
+		"drawer": "boomber:framework/block/drawer/oak/drawer",
+		"front": "boomber:framework/block/drawer/oak/front",
+		"side": "boomber:framework/block/drawer/oak/side",
+		"top": "boomber:framework/block/drawer/oak/top"
+	}
+}
