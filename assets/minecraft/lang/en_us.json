@@ -1,9 +1,16 @@
 {
+	"boomber.framework.trait.doormat.colored_wool": "Wool Doormat",
+	"boomber.framework.trait.doormat.cosmetic": "Cosmetic Doormat",
+	"boomber.framework.trait.torch_decorator": "Torch Decorator",
+	"boomber.framework.trait.gravestone": "Gravestone",
+	"boomber.framework.trait.vanilla.decoration": "Vanilla Decoration",
+
 	"boomber.framework.item.durability": "Durability",
 	"boomber.framework.item.senku_cola": "Senku Cola",
 	"boomber.framework.item.senku_cola.description": "Made in 5738 AD",
 	"boomber.framework.item.trowel": "Trowel",
 	"boomber.framework.item.trowel.description": "Press F to access trowel's inventory",
+
 	"boomber.framework.block.furniture_table": "Furniture Table",
 	"boomber.framework.block.torch_decorator.candle": "Candle Decorator",
 	"boomber.framework.block.doormat.white_wool": "White Wool Doormat",
@@ -34,6 +41,7 @@
 	"boomber.framework.block.gravestone.cross": "Gravestone <Cross>",
 	"boomber.framework.block.gravestone.celtic": "Gravestone <Celtic>",
 	"boomber.framework.block.gravestone.slanted": "Gravestone <Slanted>",
+
 	"boomber.framework.ui.furniture_table.cost.red": "Red",
 	"boomber.framework.ui.furniture_table.cost.green": "Green",
 	"boomber.framework.ui.furniture_table.cost.blue": "Blue",
@@ -41,6 +49,7 @@
 	"boomber.framework.ui.furniture_table.next": ">>>",
 	"boomber.framework.ui.furniture_table.previous": "<<<",
 	"boomber.framework.ui.furniture_table.none": "...",
+	"boomber.framework.ui.furniture_table.back": "< Back",
 	"boomber.framework.ui.furniture_table.blank": "",
 	"boomber.framework.ui.furniture_table.red_dye_slot": "Red Dye Slot",
 	"boomber.framework.ui.furniture_table.green_dye_slot": "Green Dye Slot",
