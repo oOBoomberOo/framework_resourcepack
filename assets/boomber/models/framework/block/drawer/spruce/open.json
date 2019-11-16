@@ -1,0 +1,12 @@
+{
+	"parent": "boomber:framework/block/drawer/open",
+	"textures": {
+		"bottom": "boomber:framework/block/drawer/spruce/bottom",
+		"drawer": "boomber:framework/block/drawer/spruce/drawer",
+		"front": "boomber:framework/block/drawer/spruce/front",
+		"side": "boomber:framework/block/drawer/spruce/side",
+		"top": "boomber:framework/block/drawer/spruce/top",
+		"inside": "boomber:framework/block/drawer/spruce/inside",
+		"side_2": "boomber:framework/block/drawer/spruce/inside_side"
+	}
+}

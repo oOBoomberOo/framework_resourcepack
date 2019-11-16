@@ -1,0 +1,10 @@
+{
+	"parent": "boomber:framework/block/drawer/close",
+	"textures": {
+		"bottom": "boomber:framework/block/drawer/acacia/bottom",
+		"drawer": "boomber:framework/block/drawer/acacia/drawer",
+		"front": "boomber:framework/block/drawer/acacia/front",
+		"side": "boomber:framework/block/drawer/acacia/side",
+		"top": "boomber:framework/block/drawer/acacia/top"
+	}
+}

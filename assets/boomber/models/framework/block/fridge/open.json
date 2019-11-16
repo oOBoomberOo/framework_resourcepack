@@ -1,0 +1,84 @@
+{
+	"parent": "boomber:framework/block/big_block",
+	"textures": {
+		"upper_inside": "boomber:framework/block/fridge/upper_door_inside",
+		"lower_inside": "boomber:framework/block/fridge/lower_door_inside",
+		"lower_back": "boomber:framework/block/fridge/lower_base_back",
+		"lower_front": "boomber:framework/block/fridge/lower_base_front",
+		"lower_left": "boomber:framework/block/fridge/lower_base_left",
+		"lower_right": "boomber:framework/block/fridge/lower_base_right",
+		"upper_back": "boomber:framework/block/fridge/upper_base_back",
+		"upper_front": "boomber:framework/block/fridge/upper_base_front",
+		"upper_left": "boomber:framework/block/fridge/upper_base_left",
+		"upper_right": "boomber:framework/block/fridge/upper_base_right",
+		"bottom": "boomber:framework/block/fridge/bottom",
+		"top": "boomber:framework/block/fridge/top",
+		"upper_door": "boomber:framework/block/fridge/upper_door",
+		"lower_door": "boomber:framework/block/fridge/lower_door",
+		"particle": "boomber:framework/block/fridge/upper_door_inside"
+	},
+	"elements": [
+		{
+			"name": "lower",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#lower_front"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#lower_left"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#lower_back"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#lower_right"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom"}
+			}
+		},
+		{
+			"name": "upper",
+			"from": [0, 16, 0],
+			"to": [16, 32, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#upper_front"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#upper_left"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#upper_back"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#upper_right"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"}
+			}
+		},
+		{
+			"name": "lower2",
+			"from": [17, 1, -14],
+			"to": [18, 16, 0],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [14.5, 8.5, -7]},
+			"faces": {
+				"north": {"uv": [15, 0, 16, 15], "texture": "#lower_door"},
+				"east": {"uv": [1, 0, 15, 15], "texture": "#lower_door"},
+				"south": {"uv": [0, 0, 1, 15], "texture": "#lower_door"},
+				"west": {"uv": [1, 0, 15, 15], "texture": "#lower_inside"},
+				"down": {"uv": [1, 15, 15, 16], "rotation": 270, "texture": "#lower_door"}
+			}
+		},
+		{
+			"name": "upper2",
+			"from": [17, 16, -14],
+			"to": [18, 31, 0],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [14.5, 23.5, -7]},
+			"faces": {
+				"north": {"uv": [15, 1, 16, 16], "texture": "#upper_door"},
+				"east": {"uv": [1, 1, 15, 16], "texture": "#upper_door"},
+				"south": {"uv": [0, 1, 1, 16], "texture": "#upper_door"},
+				"west": {"uv": [1, 1, 15, 16], "texture": "#upper_inside"},
+				"up": {"uv": [1, 0, 15, 1], "rotation": 90, "texture": "#upper_door"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "fridge",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
+		},
+		{
+			"name": "door",
+			"origin": [8, 8, 8],
+			"children": [2, 3]
+		}
+	]
+}

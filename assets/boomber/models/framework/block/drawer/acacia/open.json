@@ -1,0 +1,12 @@
+{
+	"parent": "boomber:framework/block/drawer/open",
+	"textures": {
+		"bottom": "boomber:framework/block/drawer/acacia/bottom",
+		"drawer": "boomber:framework/block/drawer/acacia/drawer",
+		"front": "boomber:framework/block/drawer/acacia/front",
+		"side": "boomber:framework/block/drawer/acacia/side",
+		"top": "boomber:framework/block/drawer/acacia/top",
+		"inside": "boomber:framework/block/drawer/acacia/inside",
+		"side_2": "boomber:framework/block/drawer/acacia/inside_side"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"parent": "boomber:framework/block/fridge/close",
+	"textures": {
+		"lower_front": "boomber:framework/block/fridge/black/lower_base_front",
+		"lower_back": "boomber:framework/block/fridge/black/lower_base_back",
+		"lower_left": "boomber:framework/block/fridge/black/lower_base_left",
+		"lower_right": "boomber:framework/block/fridge/black/lower_base_right",
+		"upper_front": "boomber:framework/block/fridge/black/upper_base_front",
+		"upper_back": "boomber:framework/block/fridge/black/upper_base_back",
+		"upper_left": "boomber:framework/block/fridge/black/upper_base_left",
+		"upper_right": "boomber:framework/block/fridge/black/upper_base_right",
+		"bottom": "boomber:framework/block/fridge/black/bottom",
+		"top": "boomber:framework/block/fridge/black/top",
+		"upper_door": "boomber:framework/block/fridge/black/upper_door",
+		"lower_door": "boomber:framework/block/fridge/black/lower_door"
+	}
+}

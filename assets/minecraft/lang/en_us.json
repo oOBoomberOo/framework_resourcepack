@@ -1,4 +1,5 @@
 {
+	"boomber.framework.trait.drawer": "Drawer",
 	"boomber.framework.trait.doormat.colored_wool": "Wool Doormat",
 	"boomber.framework.trait.doormat.cosmetic": "Cosmetic Doormat",
 	"boomber.framework.trait.torch_decorator": "Torch Decorator",
@@ -12,7 +13,9 @@
 	"boomber.framework.item.trowel.description": "Press F to access trowel's inventory",
 
 	"boomber.framework.block.furniture_table": "Furniture Table",
+
 	"boomber.framework.block.torch_decorator.candle": "Candle Decorator",
+
 	"boomber.framework.block.doormat.white_wool": "White Wool Doormat",
 	"boomber.framework.block.doormat.orange_wool": "Orange Wool Doormat",
 	"boomber.framework.block.doormat.magenta_wool": "Magenta Wool Doormat",
@@ -34,9 +37,21 @@
 	"boomber.framework.block.doormat.megumin.description": "\"Megumin4Life\"",
 	"boomber.framework.block.doormat.chicken": "Chicken Doormat",
 	"boomber.framework.block.doormat.tnt": "TNT Doormat",
+
 	"boomber.framework.block.drawer.oak": "Oak Drawer",
+	"boomber.framework.block.drawer.spruce": "Spruce Drawer",
+	"boomber.framework.block.drawer.birch": "Birch Drawer",
+	"boomber.framework.block.drawer.jungle": "Jungle Drawer",
+	"boomber.framework.block.drawer.acacia": "Acacia Drawer",
+	"boomber.framework.block.drawer.dark_oak": "Dark Oak Drawer",
+
+	"boomber.framework.block.fridge.quartz": "Quartz Fridge",
+	"boomber.framework.block.fridge.black": "Black Fridge",
+
 	"boomber.framework.block.figure.megumin": "Megumin Figure (1)",
+
 	"boomber.framework.block.fish_bowl.small_empty": "Empty Small Fish Bowl",
+
 	"boomber.framework.block.gravestone.plate": "Gravestone <Plate>",
 	"boomber.framework.block.gravestone.cross": "Gravestone <Cross>",
 	"boomber.framework.block.gravestone.celtic": "Gravestone <Celtic>",

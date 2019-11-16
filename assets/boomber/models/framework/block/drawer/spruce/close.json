@@ -1,0 +1,10 @@
+{
+	"parent": "boomber:framework/block/drawer/close",
+	"textures": {
+		"bottom": "boomber:framework/block/drawer/spruce/bottom",
+		"drawer": "boomber:framework/block/drawer/spruce/drawer",
+		"front": "boomber:framework/block/drawer/spruce/front",
+		"side": "boomber:framework/block/drawer/spruce/side",
+		"top": "boomber:framework/block/drawer/spruce/top"
+	}
+}

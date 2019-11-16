@@ -1,0 +1,17 @@
+{
+	"parent": "boomber:framework/block/fridge/close",
+	"textures": {
+		"lower_front": "minecraft:block/quartz_block_side",
+		"lower_back": "minecraft:block/quartz_block_side",
+		"lower_left": "minecraft:block/quartz_block_side",
+		"lower_right": "minecraft:block/quartz_block_side",
+		"upper_front": "minecraft:block/quartz_block_side",
+		"upper_back": "minecraft:block/quartz_block_side",
+		"upper_left": "minecraft:block/quartz_block_side",
+		"upper_right": "minecraft:block/quartz_block_side",
+		"bottom": "boomber:framework/block/fridge/quartz/bottom",
+		"top": "minecraft:block/quartz_block_top",
+		"upper_door": "boomber:framework/block/fridge/quartz/upper_door",
+		"lower_door": "minecraft:block/quartz_block_side"
+	}
+}
