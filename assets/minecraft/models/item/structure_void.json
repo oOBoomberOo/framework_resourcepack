@@ -58,6 +58,8 @@
 		{"predicate": {"custom_model_data": 8080052}, "model": "boomber:framework/block/kitchen_counter/modern/corner"},
 		{"predicate": {"custom_model_data": 8080053}, "model": "boomber:framework/block/kitchen_counter/modern/inner"},
 		{"predicate": {"custom_model_data": 8080054}, "model": "boomber:framework/block/kitchen_counter/modern/three_split"},
-		{"predicate": {"custom_model_data": 8080055}, "model": "boomber:framework/block/kitchen_counter/modern/end"}
+		{"predicate": {"custom_model_data": 8080055}, "model": "boomber:framework/block/kitchen_counter/modern/end"},
+		{"predicate": {"custom_model_data": 8080056}, "model": "boomber:framework/block/gaming_chair/upper"},
+		{"predicate": {"custom_model_data": 8080057}, "model": "boomber:framework/block/gaming_chair/lower"}
 	]
 }

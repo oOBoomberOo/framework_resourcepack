@@ -45,6 +45,7 @@
 		{"predicate": {"custom_model_data": 8080038}, "model": "boomber:framework/block/wardrobe/close"},
 		{"predicate": {"custom_model_data": 8080039}, "model": "boomber:framework/block/fridge/quartz/close"},
 		{"predicate": {"custom_model_data": 8080040}, "model": "boomber:framework/block/fridge/black/close"},
-		{"predicate": {"custom_model_data": 8080041}, "model": "boomber:framework/block/kitchen_counter/modern/isolate"}
+		{"predicate": {"custom_model_data": 8080041}, "model": "boomber:framework/block/kitchen_counter/modern/isolate"},
+		{"predicate": {"custom_model_data": 8080042}, "model": "boomber:framework/block/gaming_chair/full"}
 	]
 }
