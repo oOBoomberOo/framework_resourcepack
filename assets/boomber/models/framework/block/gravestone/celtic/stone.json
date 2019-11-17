@@ -1,0 +1,11 @@
+{
+	"parent": "boomber:framework/block/gravestone/celtic/base",
+	"textures": {
+		"base_1": "boomber:framework/block/gravestone/celtic/stone/base_1",
+		"base_2": "boomber:framework/block/gravestone/celtic/stone/base_2",
+		"base_3": "boomber:framework/block/gravestone/celtic/stone/base_3",
+		"ring": "boomber:framework/block/gravestone/celtic/stone/ring",
+		"extension": "boomber:framework/block/gravestone/celtic/stone/extension",
+		"cross": "boomber:framework/block/gravestone/celtic/stone/cross"
+	}
+}

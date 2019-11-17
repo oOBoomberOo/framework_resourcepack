@@ -1,0 +1,11 @@
+{
+	"parent": "boomber:framework/block/gravestone/celtic/base",
+	"textures": {
+		"base_1": "boomber:framework/block/gravestone/celtic/overgrown_stone/base_1",
+		"base_2": "boomber:framework/block/gravestone/celtic/overgrown_stone/base_2",
+		"base_3": "boomber:framework/block/gravestone/celtic/overgrown_stone/base_3",
+		"ring": "boomber:framework/block/gravestone/celtic/overgrown_stone/ring",
+		"extension": "boomber:framework/block/gravestone/celtic/overgrown_stone/extension",
+		"cross": "boomber:framework/block/gravestone/celtic/overgrown_stone/cross"
+	}
+}

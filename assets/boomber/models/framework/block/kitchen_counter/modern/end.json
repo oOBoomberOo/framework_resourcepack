@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "boomber:framework/block/block",
 	"textures": {
-		"0": "boomber:block/quartz_block_side",
-		"1": "boomber:block/cyan_terracotta",
+		"0": "block/quartz_block_side",
+		"1": "block/cyan_terracotta",
 		"particle": "boomber:block/quartz_block_side"
 	},
 	"elements": [

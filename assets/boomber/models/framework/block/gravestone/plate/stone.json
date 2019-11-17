@@ -1,0 +1,9 @@
+{
+	"parent": "boomber:framework/block/gravestone/plate/base",
+	"textures": {
+		"back": "boomber:framework/block/gravestone/plate/stone/back",
+		"front": "boomber:framework/block/gravestone/plate/stone/front",
+		"side": "boomber:framework/block/gravestone/plate/stone/side",
+		"top": "boomber:framework/block/gravestone/plate/stone/top"
+	}
+}

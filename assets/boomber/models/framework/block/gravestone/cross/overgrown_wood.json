@@ -1,0 +1,7 @@
+{
+	"parent": "boomber:framework/block/gravestone/cross/base",
+	"textures": {
+		"base": "boomber:framework/block/gravestone/cross/overgrown_wood/base",
+		"cross": "boomber:framework/block/gravestone/cross/overgrown_wood/cross"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "boomber:framework/block/gravestone/plate/base",
+	"textures": {
+		"back": "boomber:framework/block/gravestone/plate/overgrown_stone/back",
+		"front": "boomber:framework/block/gravestone/plate/overgrown_stone/front",
+		"side": "boomber:framework/block/gravestone/plate/overgrown_stone/side",
+		"top": "boomber:framework/block/gravestone/plate/overgrown_stone/top"
+	}
+}

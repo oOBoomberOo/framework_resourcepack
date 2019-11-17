@@ -52,9 +52,14 @@
 
 	"boomber.framework.block.fish_bowl.small_empty": "Empty Small Fish Bowl",
 
-	"boomber.framework.block.gravestone.plate": "Gravestone <Plate>",
-	"boomber.framework.block.gravestone.cross": "Gravestone <Cross>",
-	"boomber.framework.block.gravestone.celtic": "Gravestone <Celtic>",
+	"boomber.framework.block.gravestone.plate.stone": "Stone Plate",
+	"boomber.framework.block.gravestone.plate.overgrown_stone": "Overgrown Stone Plate",
+	"boomber.framework.block.gravestone.cross.stone": "Stone Cross",
+	"boomber.framework.block.gravestone.cross.overgrown_stone": "Overgrown Stone Cross",
+	"boomber.framework.block.gravestone.cross.wood": "Wooden Cross",
+	"boomber.framework.block.gravestone.cross.overgrown_wood": "Overgrown Wooden Cross",
+	"boomber.framework.block.gravestone.celtic.stone": "Stone Celtic Gravestone",
+	"boomber.framework.block.gravestone.celtic.overgrown_stone": "Overgrown Stone Celtic Gravestone",
 	"boomber.framework.block.gravestone.slanted": "Gravestone <Slanted>",
 
 	"boomber.framework.ui.furniture_table.cost.red": "Red",
